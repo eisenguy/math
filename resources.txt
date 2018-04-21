@@ -1,5 +1,0 @@
-DAVE BUSH
-17:51:27 The Angular.io site has a tour of heroes tutorial that's pretty good.
-17:51:59 There might be some good material on PluralSight now that it is mature.
-17:52:29 Anything by John Papa and/or Ward Bell is going to be as close to the source as you can get
-17:52:48 And I wrote a book that's on Amazon
